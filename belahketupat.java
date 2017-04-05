@@ -1,13 +1,17 @@
 public static void main(String[]args){
-System.out.println("Eko Pramono (103510281)");
+System.out.println("benardie bimo (6706152067)");
 System.out.println("");
 int l = 1;
-int tingkat = 10;
-int n = 12/2;
+int tingkat = 20;
+int n = 20/2;
 for(int i=1;i<=n;i++){
 for(int k=n;k>i;k--){
 System.out.print(" ");
 }
+ 
+ // code sudah diubah
+ 
+ 
 for(int j=1;j<=l;j++){
 System.out.print("+");
 }
